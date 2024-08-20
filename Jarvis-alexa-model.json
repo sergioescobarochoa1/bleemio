@@ -1,0 +1,1 @@
+{"interactionModel":{"dialog":{"delegationStrategy":"ALWAYS","intents":[{"name":"AMAZON.StopIntent","prompts":{},"confirmationRequired":false,"slots":[]}]},"languageModel":{"intents":[{"name":"AMAZON.FallbackIntent","samples":["None"]},{"name":"AMAZON.StopIntent","samples":[]}]}}}
